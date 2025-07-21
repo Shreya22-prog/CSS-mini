@@ -2,7 +2,6 @@
 
 ---
 
-```markdown
 # 📸 Photography Mini Project with Sidebar Menu
 
 A clean and minimal photography landing page featuring a responsive sidebar menu. Built with HTML and CSS, this project is perfect for showcasing your photo gallery or portfolio in a simple, elegant way.
@@ -23,7 +22,7 @@ A clean and minimal photography landing page featuring a responsive sidebar menu
 
 ```
 
-photography-sidebar-project/
+CSS mini/
 │
 ├── index.html         # Main HTML file
 ├── style.css          # CSS styling
@@ -47,13 +46,13 @@ Open `index.html` in your browser to view the demo.
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/photography-sidebar-project.git
+   git clone https://github.com/your-username/CSS-mini.git
 ````
 
 2. **Open the project folder**
 
    ```bash
-   cd photography-sidebar-project
+   cd CSS-mini
    ```
 
 3. **Launch the site**
