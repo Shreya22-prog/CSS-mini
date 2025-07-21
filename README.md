@@ -38,7 +38,7 @@ photography-sidebar-project/
 
 ## 🧪 Demo
 
-![Screenshot](assets/photo.jpg)
+(assets/photo.jpg)
 
 Open `index.html` in your browser to view the demo.
 
@@ -70,25 +70,3 @@ Open `index.html` in your browser to view the demo.
 
 ---
 
-## 📌 Screenshot
-
-![Sidebar Preview](assets/photo.jpg)
-
----
-
-## 📃 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
-
----
-
-## 💡 Inspiration
-
-Inspired by minimal photography themes and sidebar layouts often used in portfolios and personal galleries.
-
-```
-
----
-
-Let me know if you want the actual code (`index.html` + `style.css`) included as well!
-```
