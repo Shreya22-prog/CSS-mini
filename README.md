@@ -1,5 +1,4 @@
 # CSS-mini
-Here’s a sample `README.md` file you can use for your **Photography Mini Project with Sidebar Menu** built using HTML, CSS, and a `.jpg` image:
 
 ---
 
